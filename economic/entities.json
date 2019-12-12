@@ -1,0 +1,202 @@
+{
+	"data": [{
+			"name": "理财咖",
+			"org": "安稳投资管理咨询有限公司",
+			"website": "http://www.lcaika.com",
+			"location": "佛山",
+			"tags": {
+				"shouyilv": 0,
+				"shexianchuanxiao": 0,
+				"tixiankunnan": 0,
+				"yanzhongyuqi": 0,
+				"juesunshi": 1,
+				"kuadaxuanchuan": 0,
+				"feifajizi": 0,
+				"youxilicai": 0,
+				"baobenchengnuo": 1,
+				"shilianpaolu": 1
+			}
+		},
+		{
+			"name": "礼德财富",
+			"org": "礼德互联网金融信息服务有限公司",
+			"website": "https://www.leadercf.com",
+			"location": "广州",
+			"tags": {
+				"shouyilv": 1,
+				"shexianchuanxiao": 0,
+				"tixiankunnan": 0,
+				"yanzhongyuqi": 0,
+				"juesunshi": 1,
+				"kuadaxuanchuan": 1,
+				"feifajizi": 0,
+				"youxilicai": 0,
+				"baobenchengnuo": 1,
+				"shilianpaolu": 0
+			}
+		},
+		{
+			"name": "牛板金",
+			"org": "佐助金融信息服务有限公司",
+			"website": "http://www.zuozh.com",
+			"location": "浙江",
+			"tags": {
+				"shouyilv": 1,
+				"shexianchuanxiao": 0,
+				"tixiankunnan": 0,
+				"yanzhongyuqi": 1,
+				"juesunshi": 1,
+				"kuadaxuanchuan": 0,
+				"feifajizi": 0,
+				"youxilicai": 0,
+				"baobenchengnuo": 1,
+				"shilianpaolu": 0
+			}
+		},
+		{
+			"name": "中宝投资",
+			"org": "中宝投资有限公司",
+			"website": "http://www.zbicc.com/",
+			"location": "浙江",
+			"tags": {
+				"shouyilv": 1,
+				"shexianchuanxiao": 0,
+				"tixiankunnan": 0,
+				"yanzhongyuqi": 0,
+				"juesunshi": 0,
+				"kuadaxuanchuan": 0,
+				"feifajizi": 0,
+				"youxilicai": 0,
+				"baobenchengnuo": 0,
+				"shilianpaolu": 1
+			}
+		},
+		{
+			"name": "水象分期",
+			"org": "水象网络科技有限公司",
+			"website": "https://www.waterelephant.cn/",
+			"location": "上海",
+			"tags": {
+				"shouyilv": 0,
+				"shexianchuanxiao": 0,
+				"tixiankunnan": 1,
+				"yanzhongyuqi": 0,
+				"juesunshi": 0,
+				"kuadaxuanchuan": 0,
+				"feifajizi": 0,
+				"youxilicai":0,
+				"baobenchengnuo": 0,
+				"shilianpaolu": 1
+			}
+		},
+		{
+			"name": "小象优品",
+			"org": "源石云科技有限公司",
+			"website": "http://www.xiaoxiangyoupin.com/",
+			"location": "北京",
+			"tags": {
+				"shouyilv": 0,
+				"shexianchuanxiao": 0,
+				"tixiankunnan": 1,
+				"yanzhongyuqi": 0,
+				"juesunshi": 1,
+				"kuadaxuanchuan": 0,
+				"feifajizi": 0,
+				"youxilicai": 0,
+				"baobenchengnuo": 0,
+				"shilianpaolu": 0
+			}
+		},
+		{
+			"name": "宜人贷",
+			"org": "恒诚科技发展（北京）有限公司",
+			"website": "https://www.yirendai.com/",
+			"location": "北京",
+			"tags": {
+				"shouyilv": 0,
+				"shexianchuanxiao": 0,
+				"tixiankunnan": 0,
+				"yanzhongyuqi": 0,
+				"juesunshi": 1,
+				"kuadaxuanchuan": 0,
+				"feifajizi": 0,
+				"youxilicai": 0,
+				"baobenchengnuo": 0,
+				"shilianpaolu": 0
+			}
+		},
+		{
+			"name": "唐小僧",
+			"org": "资邦元达（上海）互联网金融信息服务有限公司",
+			"website": "http://www.txslicai.com",
+			"location": "上海",
+			"tags": {
+				"shouyilv": 1,
+				"shexianchuanxiao": 0,
+				"tixiankunnan": 0,
+				"yanzhongyuqi": 0,
+				"juesunshi": 1,
+				"kuadaxuanchuan": 1,
+				"feifajizi": 0,
+				"youxilicai": 0,
+				"baobenchengnuo": 0,
+				"shilianpaolu": 0
+			}
+		},
+		{
+			"name": "付融宝",
+			"org": "宝贝金融信息服务有限公司",
+			"website": "http://www.frbao.com",
+			"location": "江苏",
+			"tags": {
+				"shouyilv": 1,
+				"shexianchuanxiao": 0,
+				"tixiankunnan": 0,
+				"yanzhongyuqi": 0,
+				"juesunshi": 0,
+				"kuadaxuanchuan": 0,
+				"feifajizi": 1,
+				"youxilicai": 0,
+				"baobenchengnuo": 0,
+				"shilianpaolu": 0
+			}
+		},
+		{
+			"name": "牛牛通宝",
+			"org": "牛牛通宝科技文化产业有限公司",
+			"website": "http://www.nntbao.com",
+			"location": "深圳",
+			"tags": {
+				"shouyilv": 0,
+				"shexianchuanxiao": 1,
+				"tixiankunnan": 0,
+				"yanzhongyuqi": 0,
+				"juesunshi": 0,
+				"kuadaxuanchuan": 0,
+				"feifajizi": 1,
+				"youxilicai": 0,
+				"baobenchengnuo": 0,
+				"shilianpaolu": 0
+			}
+		},
+		{
+			"name": "天玑汇富",
+			"org": "天玑汇富互联网金融服务有限公司",
+			"website": "https://www.tjhf.com/",
+			"location": "深圳",
+			"tags": {
+				"shouyilv": 0,
+				"shexianchuanxiao": 0,
+				"tixiankunnan": 0,
+				"yanzhongyuqi": 0,
+				"juesunshi": 0,
+				"kuadaxuanchuan": 0,
+				"feifajizi": 1,
+				"youxilicai": 0,
+				"baobenchengnuo": 0,
+				"shilianpaolu": 0
+			}
+		}
+	],
+	"count": 11
+}
